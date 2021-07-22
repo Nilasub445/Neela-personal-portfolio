@@ -31,3 +31,10 @@ h1{
     width: 80%;
     padding-left: 5px;
 }
+.dowmload{
+    color: white;
+    background-image: linear-gradient(orange,tomato);
+    padding: 10px 40px;
+    text-decoration: none;
+    border-radius: 5px;
+}
